@@ -4,7 +4,7 @@
 	--c-black: #05091e;
 	--c-blue: #46b4ff;
 	--c-gray: #90aab7;
-	--c-green: #9ef2cb;
+	--c-green: #00aa96;
 	--c-pink: #ffb8d9;
 	--c-orange: #ffb7a3;
 	--c-yellow: #ffdace;
@@ -51,7 +51,7 @@
 	--t-fg: var(--c-black);
 	--t-bg: var(--c-white);
 	--t-subdue: var(--c-gray);
-	--t-active: var(--c-blue);
+	--t-active: var(--c-green);
 }
 
 body {
