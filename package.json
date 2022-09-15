@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@astro-community/astro-embed-youtube": "^0.1.1",
-    "astro": "^1.2.3"
+    "@astrojs/mdx": "^0.11.1",
+    "astro": "^1.2.3",
+    "astro-embed": "^0.1.1"
   }
 }
