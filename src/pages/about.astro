@@ -42,6 +42,9 @@ import Nav from '../components/Nav.astro';
 					src="/assets/header.jpeg"
 				/>
 			</div>
+			<p class="phrase">
+				"Conversamos del todo y la nada, discurriendo mientras las dunas siguen navegando a destinos que solo el Señor de los Mundos conoce."<br> - Abu Tarik
+			</p>
 			<div class="bio wrapper">
 				<p>
 					Como método de trabajo es holístico y combina arte con agroecología, bosques de alimentos, permacultura, biología y microbiología, desarrollo del micelio y también medicina natural. Todo ello con el fin de ser autosostenible.
@@ -50,31 +53,57 @@ import Nav from '../components/Nav.astro';
 				</p>
 				<p>
 					EL ÁRBOL DEL BAOBAB NOS CUENTA QUÉ ES ARTOASIS
-					<span>
-						<YouTube id="https://youtu.be/L9wFPiGCQ-0" />
-					</span>
+				</p>
+				<YouTube class="lite-youtube" id="https://youtu.be/L9wFPiGCQ-0" />
 
-				</p>
-				<p>
-					Ciencia, arte, filosofía, ética, son disciplinas que nunca debieron divorciarse.
-					Cómo puede un árbol funcionar, si las hojas no tienen en cuenta al tronco, el tronco a las raíces y las raíces a las hojas. Las raíces al micelio, el micelio a las hojas que caen, las hojas a la lluvia y al sol.
-					El término humus provee la etimología de la denominación humano. El estudio científico del humus, apoyado en filosofías coherentes como la permacultura, nos permiten comprender las pautas del comportamiento humano, su reequilíbrio, salud y ética.
-					La filología y en su caso la etimología, nos indican la secuencia morfogenética, neurolinguística y epifanía humana desde la sinapsis del micelio, las bacterias y virus, agentes generadores, precursores del adn humano.
-					La ciencia no es sólo un microscopio y unas probetas, que también, mas precisan de un equilibrio y diferentes herramientas que trabajen al unísono.
-					La ciencia mercantilista en su afán de matar bacterias y virus, en culpabilizar a seres inocentes, que son la materia primordial entre lo inerte y lo vivo, nos condujo a la deriva, al miedo a la enfermedad y la muerte, al esperpento, a un mundo en los que los ignorantes, y por ende por su naturaleza impuesta de ignorancia, son ignorantes de su propia ignorancia, se burlan de lo que desconocen.
-					Yo también soy ignorante, la diferencia es que soy consciente de ello y siempre se me brinda la oportunidad de aprender, que no es poca cosa ni moco de pavo.
-					Cada disciplina anda subdividida, disgregada y dispersa. Se perdió la visión de conjunto. Cada parte y microparte funcionan en sincronía con el conjunto.
-					La información del todo está en el adn de la parte.
-					La razón que sólo obedece al intelecto es diseccionadora. La razón que flirtea con la imaginación suele acabar en orgasmos creativos.
-					La naturaleza que es el compendio de la sabiduría, es bella, es arte, es equilibrio, es ciencia.
-					En todo caso, la ciencia razonativa que descubre los secretos de la naturaleza, necesita de una ética para no ser destructiva, para ser inequívocamente humilde, no pretenciosa e inquisitorial como en la actualidad; precisa de la filosofía, del amor al conocimiento para impulsarse, descubrir el arte y la belleza para no producir engendros, falacias y pestes.
+				<pre>
+					Ciencia, arte, filosofía, ética, son disciplinas que nunca debieron divorciarse. <br>
+					Cómo puede un árbol funcionar, si las hojas no tienen en cuenta al tronco, el tronco a las raíces y las raíces a las hojas. Las raíces al micelio, el micelio a las hojas que caen, las hojas a la lluvia y al sol. <br>
+					El término humus provee la etimología de la denominación humano. El estudio científico del humus, apoyado en filosofías coherentes como la permacultura, nos permiten comprender las pautas del comportamiento humano, su reequilíbrio, salud y ética. <br>
+					La filología y en su caso la etimología, nos indican la secuencia morfogenética, neurolinguística y epifanía humana desde la sinapsis del micelio, las bacterias y virus, agentes generadores, precursores del adn humano. <br>
+					La ciencia no es sólo un microscopio y unas probetas, que también, mas precisan de un equilibrio y diferentes herramientas que trabajen al unísono. <br>
+					La ciencia mercantilista en su afán de matar bacterias y virus, en culpabilizar a seres inocentes, que son la materia primordial entre lo inerte y lo vivo, nos condujo a la deriva, al miedo a la enfermedad y la muerte, al esperpento, a un mundo en los que los ignorantes, y por ende por su naturaleza impuesta de ignorancia, son ignorantes de su propia ignorancia, se burlan de lo que desconocen.<br>
+					Yo también soy ignorante, la diferencia es que soy consciente de ello y siempre se me brinda la oportunidad de aprender, que no es poca cosa ni moco de pavo.<br>
+					Cada disciplina anda subdividida, disgregada y dispersa. Se perdió la visión de conjunto. Cada parte y microparte funcionan en sincronía con el conjunto.<br>
+					La información del todo está en el adn de la parte.<br>
+					La razón que sólo obedece al intelecto es diseccionadora. La razón que flirtea con la imaginación suele acabar en orgasmos creativos.<br>
+					La naturaleza que es el compendio de la sabiduría, es bella, es arte, es equilibrio, es ciencia.<br>
+					En todo caso, la ciencia razonativa que descubre los secretos de la naturaleza, necesita de una ética para no ser destructiva, para ser inequívocamente humilde, no pretenciosa e inquisitorial como en la actualidad; precisa de la filosofía, del amor al conocimiento para impulsarse, descubrir el arte y la belleza para no producir engendros, falacias y pestes.<br>
 					Lo dijo uno de los grandes, Francisco de Goya: “el sueño de la razón produce monstruos”.
-				</p>
-				<p>
-					Conversamos del todo y la nada, discurriendo mientras las dunas siguen navegando a destinos que solo el Señor de los Mundos conoce. - Abu Tarik
-				</p>
+				</pre>
 			</div>
 		</div>
 		<Footer />
 	</body>
 </html>
+
+<style>
+	h1 { margin: 0}
+	pre {
+		margin-top: 4rem;
+		white-space: pre-line;
+	}
+	lite-youtube {
+		margin-left: auto;
+		margin-right: auto;
+		width: 720px;
+	}
+
+	box {
+		padding: 30px;
+		border-radius: 20px;
+		border: 2px solid #00aa96;
+		text-align: end;
+		font-style: italic;
+		margin-top: 50px;
+		background-color: white;
+	}
+	.phrase {
+		color: #00aa96;
+		font-style: italic;
+		margin: 30px 0;
+		text-align: end;
+		line-height: 2;
+		font-size: large;
+	}
+</style>
