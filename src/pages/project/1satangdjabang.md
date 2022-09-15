@@ -1,4 +1,6 @@
 ---
+setup: |
+  import { Tweet, YouTube } from 'astro-embed';
 layout: ../../layouts/project.astro
 title: JARDÍN BOTÁNICO ESCUELA SATANG DJABANG
 client: Self
@@ -21,6 +23,27 @@ http://www.maplandia.com/senegal/ziguinchor/kafountine/
 
 Ubicación
 
+
+![Un cielo nocturno estrellado.](/satang.jpg)
+![Un cielo nocturno estrellado.](/satang.jpg)
+**Promo:**
+<center><YouTube id="https://www.youtube.com/watch?v=WbFjN_XP9po" /></center>
+
+<center><YouTube id="https://www.youtube.com/watch?v=Ho43203qeDA" /></center>
+
+**Español:**
+<center><YouTube id="https://www.youtube.com/watch?v=kGJMqJ2st30" /></center>
+
+<center><YouTube id="https://www.youtube.com/watch?v=rv28NAnAbZw" /></center>
+
+**Inglés:**
+<center><YouTube id="https://www.youtube.com/watch?v=ZGUPz-06igw" /></center>
+
+<center><YouTube id="https://www.youtube.com/watch?v=rQMkpTMaaW8" /></center>
+
+
+
+https://www.youtube.com/watch?v=WbFjN_XP9po
 Galería de imágenes
 Inauguración Jardín botánico – Diciembre 2015
 El alcalde de la comunidad rural de Kafountine, Msr. Victor Djatta inauguró el 20 de diciembre de 2015, el Jardín botánico de Kafountine , mostrando su satisfacción y propósitos de apoyo a este proyecto auto-sostenible, que eleva el rango de la formación profesional de esta comunidad de cincuenta mil habitantes. Los cuatro recursos económicos principales, son la pesca, la agricultura, el comercio minorista y el turismo.
