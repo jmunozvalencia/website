@@ -4,10 +4,10 @@ setup: |
 layout: ../../layouts/project.astro
 title: JARDÍN BOTÁNICO ESCUELA SATANG DJABANG
 client: Self
-publishDate: 2020-03-02 00:00:00
+publishDate: 2022-09-19 00:00:00
 img: /satang.jpg
 description: |
-  JARDÍN BOTÁNICO ESCUELA SATANG DJABANG
+  Jardín botánico escuela Satang Jabang
 tags:
   - Permacultura
   - Bosque Comestible

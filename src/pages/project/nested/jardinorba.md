@@ -1,15 +1,16 @@
 ---
 layout: ../../../layouts/project.astro
-title: El jardín botánico de Orba en ciernes. El camino de la basura al oro.
+title: Jardín botánico de Orba
 client: Self
-publishDate: 2020-03-04 00:00:00
+publishDate: 2015-03-04 00:00:00
 img: /bug.png
 description: |
-  El jardín botánico de Orba en ciernes. El camino de la basura al oro.
+  Jardín botánico de Orba. El camino de la basura al oro.
 tags:
-  - design
-  - dev
-  - branding
+  - Permacultura
+  - Jardín botánico
+  - Reciclado
+  - Plantas medicinales
 ---
 
 Proyecto transformativo de residuos orgánicos, en un Parque Jardín Huerto Botánico Local.

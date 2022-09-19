@@ -1,15 +1,14 @@
 ---
 layout: ../../../layouts/project.astro
-title: BALADRE GRANJA ESCUELA. MERIDIANO 00º 00′ 00”
+title: BALADRE GRANJA ESCUELA
 client: Self
-publishDate: 2020-03-04 00:00:00
+publishDate: 2014-09-19 00:00:00
 img: /granja.png
 description: |
-  BALADRE GRANJA ESCUELA. MERIDIANO 00º 00′ 00”
+  Baladre granja escuela. Meridiano 00º 00′ 00”
 tags:
-  - design
-  - dev
-  - branding
+  - Permacultura
+  - Bosque Comestible
 ---
 
 Situado en la Partida Vinyals de Ondara-Beniarbeig en la Provincia de Alicante.
