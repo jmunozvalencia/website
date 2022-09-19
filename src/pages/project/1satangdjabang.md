@@ -14,38 +14,20 @@ tags:
 ---
 
 Rediseñado y transformado durante tres años sobre los terrenos del anexo agrícola de la Ècole Profesionelle Satang Jabang, con 18 años de experiencia en formación de francés, inglés, informática, matemáticas, cocina internacional, costura artesanal y huerta local, cuenta con una media de setenta alumnas en tres cursos que dura cada formación.
-
+<center><YouTube id="https://www.youtube.com/watch?v=WbFjN_XP9po" /></center>
 Desde el inicio de la actuación de Art Oasis en Octubre de 2012, se estudia agricultura sostenible, permacultura, silvicultura – bosque de alimentos y medicinas, transformación de productos vegetales, medicinales, cosméticos e higiénicos. Aumentando la efectividad de esta disciplina, igualmente hay interactividad pues acuden voluntarios de diversos países.
 
-http://www.maplandia.com/senegal/ziguinchor/kafountine/
+El alcalde de la comunidad rural de Kafountine, Msr. Victor Djatta inauguró el 20 de diciembre de 2015, el Jardín botánico de Kafountine , mostrando su satisfacción y propósitos de apoyo a este proyecto auto-sostenible, que eleva el rango de la formación profesional de esta comunidad de cincuenta mil habitantes. Los cuatro recursos económicos principales, son la pesca, la agricultura, el comercio minorista y el turismo.
 
 **Fecha de inicio:** Octubre de 2012.
 
-Ubicación
+**Ubicación:** Senegal (http://www.maplandia.com/senegal/ziguinchor/kafountine)
 
-
-![Un cielo nocturno estrellado.](/satang.jpg)
-![Un cielo nocturno estrellado.](/satang.jpg)
-**Promo:**
-<center><YouTube id="https://www.youtube.com/watch?v=WbFjN_XP9po" /></center>
-
-<center><YouTube id="https://www.youtube.com/watch?v=Ho43203qeDA" /></center>
-
-**Español:**
-<center><YouTube id="https://www.youtube.com/watch?v=kGJMqJ2st30" /></center>
-
-<center><YouTube id="https://www.youtube.com/watch?v=rv28NAnAbZw" /></center>
-
-**Inglés:**
-<center><YouTube id="https://www.youtube.com/watch?v=ZGUPz-06igw" /></center>
-
-<center><YouTube id="https://www.youtube.com/watch?v=rQMkpTMaaW8" /></center>
-
-
-
-https://www.youtube.com/watch?v=WbFjN_XP9po
-Galería de imágenes
-Inauguración Jardín botánico – Diciembre 2015
-El alcalde de la comunidad rural de Kafountine, Msr. Victor Djatta inauguró el 20 de diciembre de 2015, el Jardín botánico de Kafountine , mostrando su satisfacción y propósitos de apoyo a este proyecto auto-sostenible, que eleva el rango de la formación profesional de esta comunidad de cincuenta mil habitantes. Los cuatro recursos económicos principales, son la pesca, la agricultura, el comercio minorista y el turismo.
-
-http://www.maplandia.com/senegal/ziguinchor/kafountine/
+![Un cielo nocturno estrellado.](/fotos.png)
+<p>
+  <a class="subHeader" href="/gallery">Ver fotos</a>
+</p>
+![Un cielo nocturno estrellado.](/videos.png)
+<p>
+  <a class="subHeader" href="https://www.youtube.com/channel/UC-J1epsdvSyG8o6yQR2xRJQ/videos">Ver videos</a>
+</p>
