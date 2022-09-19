@@ -26,14 +26,9 @@ Todos provenimos de África. Los ancestros de todas las razas nativas de este pl
 
 6. **Instituto marino** de desarrollo sostenible para evitar erosión, permacultura y bosque de alimentos sobre dunas de arena, espacios degradados y desiertos.
 
-<br>
-
 <center><YouTube id="https://youtu.be/G5XcdLmcCVA" /></center>
 
-
-<br>
-
-## NUEVO PROYECTO: VISIÓN 2023
+## NUEVO PROYECTO: VISIÓN 2022
 
 Estudios Universitarios de permacultura, bosques de alimentos y medicinas naturales. Art Oasis. Bolama, Guinea Bissau
 
@@ -64,13 +59,3 @@ Este escrito es un llamamiento a colaborar, a la acción, a salir más que nunca
 Sólo nosotros podemos crear el entorno de prosperidad adecuado para legar a las futuras generaciones. Mientras que unos pocos se benefician de este espectáculo esperpéntico-pandémico, nosotros podemos abrir un espacio de luz, un orden natural, un buen sistema, basado en la concordia con la Naturaleza de la cual provenimos todos, en el continente del cual todos somos emigrantes; al que más se le debe y el cual se está erigiendo en ejemplo claro de cordura, vuelta a los valores naturales y tradicionales.
 
 Hasta el más largo de los viajes se inicia con un primer y solitario paso. Un paso hacia el continente africano, donde se escucha más el “nosotros” que el “yo”.
-
-
-
-<div style="text-align: right"> 
-
-Ubuntu.
-
-Carlos Costa
-
-</div>
