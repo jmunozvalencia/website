@@ -7,7 +7,7 @@ client: Self
 publishDate: 2020-03-04 00:00:00
 img: /assets/header.jpeg
 description: |
-  Hasta el más largo de los viajes se inicia con un primer y solitario paso. Un paso hacia el continente africano, donde se escucha más el “nosotros” que el “yo”.
+  La semilla de un mundo mejor está en ti.
 ---
 
 ## INTRODUCCIÓN
