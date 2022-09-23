@@ -18,6 +18,12 @@ const items = [
 			description: 'Ayudanos difundiendo el proyecto a través de las redes sociales.',
 			image: '../share.svg'
 		},
+		{
+			title: 'CONTACTA',
+			description: 'Si tienes alguna duda o propuesta no dudes en escribirnos a',
+			image: '../letter2.svg',
+			extra: 'art.oasis.web@protonmail.com'
+		},
 ];
 ---
 
@@ -47,7 +53,10 @@ const items = [
 
 				))}
 		</div>
+
 	</div>
+
+
 </section>
 
 <style>
@@ -97,9 +106,11 @@ const items = [
 	width: 4rem;
 	height: 4rem;
 }
+
 .scroll {
 	scroll-margin-top: 16;
 }
+
 .title {
 	margin-bottom: 0.75rem;
 	font-size: 1.25rem;
@@ -125,11 +136,13 @@ const items = [
 		text-align: center;
 	}
  }
+
  @media (max-width: 640px) {
 	.two {
 		grid-column: 1 / 6;
 	}
  }
+
  @media (min-width: 768px) {
 	.grid {
 		grid-template-columns: repeat(6, minmax(0, 1fr));
@@ -139,6 +152,7 @@ const items = [
 		margin-bottom: 3rem;
 	}
   }
+
   @media (min-width: 1024px) {
 		.wrapper {
 			padding: 2rem 5rem;
