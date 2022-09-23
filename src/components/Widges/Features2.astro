@@ -27,135 +27,31 @@ const items = [
 ];
 ---
 
-<section class="scroll" id="features">
-	<div class="wrapper">
-		<div class="wrapper-title">
-			<h2 class="title-text">
-				¿Quieres formar parte del proyecto?
-			</h2>
-			<p class="subtitle">
+
+<section class="scroll-mt-16" id="features">
+<div class="px-4 py-16 mx-auto max-w-6xl lg:px-8 lg:py-20 bg-primary-50 dark:bg-slate-800">
+	<div class="mb-10 sm:text-center md:mb-12">
+		<h2 class="text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-4 font-heading">
+			¿Quieres formar parte del proyecto?
+		</h2>
+		<p class="mx-auto sm:text-center text-xl text-gray-600 dark:text-slate-400">
 			Puedes apoyarnos de muchas formas:
-			</p>
-		</div>
-		<div class="grid">
-				{items.map(({ title, description, image,  extra }) => (
-				<div class="one">
-						<div class="image">
-							<img src = {image} alt="My Happy SVG"/>
-						</div>
-				</div>
-
-				<div class="two">
-					<h3 class="title" >{title}</h3>
-					<p>{description}</p>
-					<pre class="text">{extra}</pre>
-				</div>
-
-				))}
-		</div>
-
+		</p>
 	</div>
+	<div class="grid gap-y-16 space-y-6 md:grid-cols-6 md:space-y-0">
+		{items.map(({ title, description, image }) => (
+		<div class="space-y-8 sm:px-8 flex flex-row col-span-1 justify-end ">
+			<div class="flex items-center justify-center w-12 h-12 ">
+				<img src = {image} alt="My Happy SVG"/>
+			</div>
+		</div>
 
-
+		<div class="col-span-5">
+			<h3 class="mb-3 text-xl font-bold flex items-center" >{title}</h3>
+			<p>{description}</p>
+		</div>
+		))}
+	</div>
+</div>
 </section>
 
-<style>
-	.wrapper {
-		padding: 4rem 1rem;
-		margin: unset auto;
-		max-width: 72rem;
-	}
-	.wrapper-title {
-		margin-bottom: 2.5rem;
-		text-align: center;
-	}
-	.title-text {
-		font-size: 2.25rem;
-		line-height: 2.5rem;	
-		font-weight: 700;
-		letter-spacing: -0.05em;
-		margin-bottom: 1rem;
-	}
-	.subtitle {
-		margin: unset auto;
-		font-size: 1.25rem;
-		line-height: 1.75rem;
-	}
-	.grid {
-  display: grid;
-  row-gap: 4rem;
-  margin-top: 2rem;
-}
-.one {
-  grid-column: 1;
-  margin-top: 2rem;
-  display:flex;
-  flex-direction: row;
-  justify-content: end;
-}
-
-.two {
-  grid-column: 2 / 7;
-
-}
-.image {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-
-	width: 4rem;
-	height: 4rem;
-}
-
-.scroll {
-	scroll-margin-top: 16;
-}
-
-.title {
-	margin-bottom: 0.75rem;
-	font-size: 1.25rem;
-	font-weight: 700;
-	display: flex;
-	justify-items: center;
-}
-.text {
-	font-family: var(--f-u1);
-	font-weight: 700;
-}
-
-
-@media (min-width: 640px) {
-	.one{
-		padding: 0 2rem;
-	}
-	
-	.wrapper-title {
-		text-align: center;
-	}
-	.subtitle {
-		text-align: center;
-	}
- }
-
- @media (max-width: 640px) {
-	.two {
-		grid-column: 1 / 6;
-	}
- }
-
- @media (min-width: 768px) {
-	.grid {
-		grid-template-columns: repeat(6, minmax(0, 1fr));
-		margin-top: 0px;
-	}
-	.wrapper-title {
-		margin-bottom: 3rem;
-	}
-  }
-
-  @media (min-width: 1024px) {
-		.wrapper {
-			padding: 2rem 5rem;
-		}
-   }
-</style>
