@@ -9,5 +9,5 @@ export default defineConfig({
         // Example: Add support for legacy Markdown features
         astroFlavoredMarkdown: true
     },
-    integrations: [tailwind(), image()]
+    integrations: [tailwind(), image()],
 });
