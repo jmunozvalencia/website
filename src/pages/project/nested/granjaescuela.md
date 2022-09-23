@@ -9,6 +9,7 @@ description: |
 tags:
   - Permacultura
   - Bosque Comestible
+  - Educación
 ---
 
 Situado en la Partida Vinyals de Ondara-Beniarbeig en la Provincia de Alicante.

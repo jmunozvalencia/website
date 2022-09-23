@@ -10,6 +10,7 @@ description: |
   Jardín botánico escuela Satang Jabang
 tags:
   - Permacultura
+  - Medicina natural
   - Bosque Comestible
 ---
 
