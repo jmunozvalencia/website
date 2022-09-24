@@ -3,7 +3,7 @@ const items = [
 
 		{
 			title: 'DONA',
-			description: 'Si quieres ayudar a que este proyecto se haga realidad, puedes hacer una donación haciendo a través de una transferencia al número de cuenta:',
+			description: 'Si quieres ayudar a que este proyecto se haga realidad, puedes hacer una donación a través de una transferencia al número de cuenta:',
 			image: '../donation.svg',
 			extra: 'Beneficiario: Asociación ArtOasis\nIBAN: ES0700811086250006318747'
 		},
@@ -38,19 +38,21 @@ const items = [
 			Puedes apoyarnos de muchas formas:
 		</p>
 	</div>
-	<div class="grid gap-y-16 space-y-6 md:grid-cols-6 md:space-y-0">
+	<div class="grid mx-auto space-y-6 md:space-y-16 md:max-w-3xl">
 		{items.map(({ title, description, image, extra }) => (
-		<div class="space-y-8 sm:px-8 flex flex-row col-span-1 justify-end ">
-			<div class="flex items-center justify-center w-12 h-12 ">
+			<div class="flex flex-row sm:px-8">
+				<div class="mb-4 mr-4">
+					<div class="flex items-center justify-center w-12 h-12">
 				<img src = {image} alt="My Happy SVG"/>
-			</div>
-		</div>
+					</div>
+				</div>
 
-		<div class="col-span-5">
-			<h3 class="mb-3 text-xl font-bold flex items-center" >{title}</h3>
-			<p>{description}</p>
-			<pre class="font-sans font-bold">{extra}</pre>
-		</div>
+				<div>
+					<h3 class="mb-3 text-xl font-bold flex items-center" >{title}</h3>
+					<p>{description}</p>
+					<pre class="font-sans font-bold whitespace-pre-wrap	">{extra}</pre>
+				</div>
+			</div>
 		))}
 	</div>
 </div>

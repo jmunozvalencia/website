@@ -10,4 +10,9 @@ export default defineConfig({
         astroFlavoredMarkdown: true
     },
     integrations: [tailwind(), image()],
+    vite: {
+        ssr: {
+            external: ["svgo"],
+        },
+    },
 });

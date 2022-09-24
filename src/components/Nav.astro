@@ -1,6 +1,6 @@
 ---
-
         import ToggleMenu from '~/components/core/ToggleMenu.astro';
+        import BasicScripts from '~/components/core/BasicScripts.astro';
 		---
 
 
@@ -20,7 +20,7 @@ class="sticky top-0 z-40 flex-none mx-auto w-full bg-white md:bg-white/90 dark:b
   </div>
 </div>
 <nav
-        class="items-center w-full md:w-auto hidden md:flex text-gray-600 dark:text-slate-200 h-screen md:h-auto"
+        class="items-center w-full md:w-auto hidden md:flex text-gray-600 dark:text-slate-200 h-sFcreen md:h-auto"
         aria-label="Main navigation"
         id="menu"
 >
@@ -55,48 +55,8 @@ class="sticky top-0 z-40 flex-none mx-auto w-full bg-white md:bg-white/90 dark:b
 </ul>
         </nav>
         </div>
+        <BasicScripts />
         </header>
 
 
-<style>
-	nav {
-		display: flex;
-		gap: 1rem;
-		align-items: center;
-		padding: 1rem 2rem;
-	}
 
-	.link {
-		color: var(--t-subdue);
-		display: block;
-		text-decoration: none;
-		font-size: var(--f-d1);
-		text-transform: uppercase;
-		padding-top: 0.75em;
-		padding-bottom: 0.75em;
-	}
-
-	.link:hover,
-	.link:focus {
-		color: var(--t-active);
-	}
-
-	.monogram {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 2em;
-		height: 2em;
-		margin-right: 0.5rem;
-		color: var(--c-black);
-		font-weight: 900;
-		letter-spacing: -0.125rem;
-		border: 3px solid currentColor;
-		border-radius: 50%;
-	}
-	.section{
-		display: flex;
-		gap: 0.75em;
-		margin-left: auto;
-	}
-</style>
