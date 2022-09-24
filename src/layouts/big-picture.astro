@@ -24,11 +24,17 @@
     }
 
     .title {
-        font-size: var(--f-u10);
+       
         font-weight: 900;
         text-transform: uppercase;
         letter-spacing: 0.0625em;
     }
+
+    @media (min-width: 750px) {
+				.title {
+                    font-size: var(--f-u10);
+				}
+			}
 
     .leadIn {
         padding-top: 4em;
@@ -64,9 +70,9 @@
 </head>
 <body>
 <Nav />
-<header style={`background-image:url(${content.img})`} class="hero">
+<div style={`background-image:url(${content.img})`} class="hero">
 <h1 class="title">{content.title}</h1>
-</header>
+</div>
 <div class="leadIn">
 <div class="wrapper">
     <h3 class="tagline">{content.description}</h3>
