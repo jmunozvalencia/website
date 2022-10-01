@@ -5,7 +5,7 @@ client: Self
 publishDate: 2015-03-04 00:00:00
 img: /bug.png
 description: |
-  El camino de la basura al oro.
+  El camino de la basura al oro
 tags:
   - Permacultura
   - Jardín botánico
@@ -23,6 +23,8 @@ El resultado inmediato es que ahora un lugar que era un simple vertedero es ahor
 <br/>
 
 **Fecha de inicio:** Septiembre de 2015.
+
+**Ubicación:** Orba, Alicante.
 
 **Contactos:** Beatriz Fesser y Binta Sissé. Ayuntamiento de Orba.
 

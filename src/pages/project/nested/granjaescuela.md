@@ -25,6 +25,8 @@ La Granja escuela dispone de instalaciones para alquilar a grupos, etc.
  
 **Fecha de inicio:** Septiembre de 2014.
 
+**Ubicación:** Ondara, Alicante.
+
 **Visitas, talleres:** Roc Enguix, profesor de la granja escuela.
 
 **Superficie:** 2000 metros cuadrados.
