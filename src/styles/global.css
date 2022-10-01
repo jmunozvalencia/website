@@ -77,7 +77,7 @@ h1 {
 	font-size: var(--f-u8);
 }
 
-h1, h2, p, pre {
+h1, h2, p {
 	margin: revert;
 	font-weight: revert;
 }
