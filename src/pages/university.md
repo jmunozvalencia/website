@@ -15,17 +15,13 @@ description: |
 Todos provenimos de África. Los ancestros de todas las razas nativas de este planeta deben su origen a la cuna africana. A cambio, Africa ha sido durante siglos olvidada y hasta saqueada por ultrajes de infaustos recuerdos. Es tiempo de devolverle a Africa lo que nos prestó. Todos estamos en deuda con ella. Y lejos de estar resentida, nos tiende sus manos abiertas. Permíteme que me presente. Me llamo Carlos Costa, y he estado a cargo del desarrollo de varios proyectos en Senegal a lo largo de más de una década. El proyecto, en el que estoy enfocado actualmente es la consecuencia lógica y creativa, de los proyectos plenamente desarrollados y concluidos en Senegal en los últimos 12 años, a saber son los siguientes:
 
 1. **Jardínes botánicos**, desarrollados con técnicas de permacultura, bosque de alimentos y medicinas.
-
 2. **Laboratorios de transformación**, secado, destilación e investigación.
-
 3. **Escuelas e institutos de formación**, congresos y convergencias. Alumnado de todas las edades y niveles.
-
 4. **Escuelas de formadores** y vectores en técnicas de marketing y comercio sostenible.
-
 5. **Explotaciones agrícolas**, comerciales, basadas e implementadas en permacultura, agroecologia, bosques de alimentos y transformación de productos, manufacturación y venta.
-
 6. **Instituto marino** de desarrollo sostenible para evitar erosión, permacultura y bosque de alimentos sobre dunas de arena, espacios degradados y desiertos.
 
+<br/>
 <center><YouTube id="https://youtu.be/G5XcdLmcCVA" /></center>
 
 ## NUEVO PROYECTO: VISIÓN 2022
