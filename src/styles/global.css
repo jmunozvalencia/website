@@ -103,10 +103,3 @@ h3 {
 	padding-left: 2rem;
 	padding-right: 2rem;
 }
-
-@media (max-width: 375px) {
-	.wrapper {
-		padding-right: 0;
-	}
-
-}

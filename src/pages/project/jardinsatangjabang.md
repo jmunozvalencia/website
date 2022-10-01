@@ -3,12 +3,12 @@ setup: |
   import { Tweet, YouTube } from 'astro-embed';
   import { Icon } from 'astro-icon';
 layout: ../../layouts/project.astro
-title: JARDÍN BOTÁNICO ESCUELA SATANG JABANG
+title: JARDÍN BOTÁNICO ESCUELA SENEGAL
 client: Self
 publishDate: 2022-09-19 00:00:00
 img: /satang.jpg
 description: |
-  Jardín botánico en Senegal
+  Jardín botánico escuela Satang Jabang en Senegal
 tags:
   - Permacultura
   - Medicina natural

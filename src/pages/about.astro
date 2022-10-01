@@ -28,16 +28,14 @@ import Nav from '../components/Nav.astro';
 			.wrapper.bio {
 				max-width: 50em;
 			}
-		</style>
-	</head>
-	<body>
-	<style>
-		pre {
+
+			pre {
 			white-space: pre-line;
 			font-family: var(--f-u1);
 			font-weight: 400;
 			font-style: italic
 		}
+
 		lite-youtube {
 			margin-left: auto;
 			margin-right: auto;
@@ -60,7 +58,18 @@ import Nav from '../components/Nav.astro';
 			line-height: 2;
 			font-size: larger;
 		}
-	</style>
+		@media screen and (max-width: 480px) {
+			.phrase {
+				font-size: medium;
+			}
+			.bio {
+				margin-top: 1em;
+				line-height: 2em;
+			}
+		}
+		</style>
+	</head>
+	<body>
 	<Nav />
 		<div class="wrapper">
 			<h1>Sobre Nosotros</h1>
