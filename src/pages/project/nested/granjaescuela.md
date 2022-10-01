@@ -21,12 +21,8 @@ Sistema de reciclaje de materia orgánica producida por jardines privados locale
 Paisajismo en consonancia con el entorno con creación de micro-climas.
 Ruta especialmente diseñada para escuelas y grupos de aprendizaje.
 La Granja escuela dispone de instalaciones para alquilar a grupos, etc.
-<br/>
  
-**Fecha de inicio:** Septiembre de 2014.
-
-**Ubicación:** Ondara, Alicante.
-
-**Visitas, talleres:** Roc Enguix, profesor de la granja escuela.
-
-**Superficie:** 2000 metros cuadrados.
+- **Fecha de inicio:** Septiembre de 2014.
+- **Ubicación:** Ondara, Alicante.
+- **Visitas, talleres:** Roc Enguix, profesor de la granja escuela.
+- **Superficie:** 2000 metros cuadrados.
