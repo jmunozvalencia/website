@@ -5,7 +5,7 @@ client: Self
 publishDate: 2014-09-19 00:00:00
 img: /granja.png
 description: |
-  Baladre granja escuela. Meridiano 00º 00′ 00”
+  Granja escuela en Alicante
 tags:
   - Permacultura
   - Bosque Comestible
@@ -21,6 +21,7 @@ Sistema de reciclaje de materia orgánica producida por jardines privados locale
 Paisajismo en consonancia con el entorno con creación de micro-climas.
 Ruta especialmente diseñada para escuelas y grupos de aprendizaje.
 La Granja escuela dispone de instalaciones para alquilar a grupos, etc.
+<br/>
  
 **Fecha de inicio:** Septiembre de 2014.
 

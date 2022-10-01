@@ -1,13 +1,14 @@
 ---
 setup: |
   import { Tweet, YouTube } from 'astro-embed';
+  import { Icon } from 'astro-icon';
 layout: ../../layouts/project.astro
-title: JARDÍN BOTÁNICO ESCUELA SATANG DJABANG
+title: JARDÍN BOTÁNICO ESCUELA SATANG JABANG
 client: Self
 publishDate: 2022-09-19 00:00:00
 img: /satang.jpg
 description: |
-  Jardín botánico escuela Satang Jabang
+  Jardín botánico en Senegal
 tags:
   - Permacultura
   - Medicina natural
@@ -20,12 +21,24 @@ Desde el inicio de la actuación de Art Oasis en Octubre de 2012, se estudia agr
 
 El alcalde de la comunidad rural de Kafountine, Msr. Victor Djatta inauguró el 20 de diciembre de 2015, el Jardín botánico de Kafountine , mostrando su satisfacción y propósitos de apoyo a este proyecto auto-sostenible, que eleva el rango de la formación profesional de esta comunidad de cincuenta mil habitantes. Los cuatro recursos económicos principales, son la pesca, la agricultura, el comercio minorista y el turismo.
 
-<center><YouTube id="https://www.youtube.com/watch?v=WbFjN_XP9po" /></center>
-
-**Fecha de inicio:** Octubre de 2012.
-
-**Ubicación:** [kafountine, Senegal](http://www.maplandia.com/senegal/ziguinchor/kafountine)
-
-**Fotos:** [Ver fotos](/gallery)
-
-**Videos:** [Ver videos](https://www.youtube.com/channel/UC-J1epsdvSyG8o6yQR2xRJQ/videos)
+<br/>
+<div class="flex flex-col justify-around sm:flex-row" >
+	<div class="flex items-center justify-center flex-col mb-8">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="/gallery">
+			<Icon pack="mdi" name="map-marker"/>
+		</a>
+		<a class="text-black hover:text-c-green" href="https://goo.gl/maps/eeP56VibGWvW1JGt6">Ubicación</a>
+	</div>
+	<div class="flex items-center justify-center flex-col mb-8">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="/gallery">
+			<Icon pack="mdi" name="image-multiple"/>
+		</a>
+		<a class="text-black hover:text-c-green" href="/gallery">Imágenes</a>
+	</div>
+	<div class="flex items-center justify-center flex-col mb-8">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="/gallery">
+			<Icon pack="mdi" name="play-box-multiple"/>
+		</a>
+		<a class="text-black hover:text-c-green" href="https://www.youtube.com/channel/UC-J1epsdvSyG8o6yQR2xRJQ/videos">Videos</a>
+	</div>
+</div>
