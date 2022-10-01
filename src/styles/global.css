@@ -77,9 +77,14 @@ h1 {
 	font-size: var(--f-u8);
 }
 
-h1, h2, h3, p, pre {
+h1, h2, p, pre {
 	margin: revert;
 	font-weight: revert;
+}
+
+h3 {
+	margin: revert;
+	font-weight: revert !important;
 }
 
 .button {
