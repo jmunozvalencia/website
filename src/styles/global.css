@@ -80,6 +80,7 @@ h1 {
 h1, h2, p, pre {
 	margin: revert;
 	font-weight: revert;
+	font-size: revert;
 }
 
 h3 {
