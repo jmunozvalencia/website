@@ -103,3 +103,10 @@ h3 {
 	padding-left: 2rem;
 	padding-right: 2rem;
 }
+
+@media screen and (max-width: 480px) {
+	.wrapper {
+		padding-left: 1rem;
+		padding-right: 1rem;
+	}
+}

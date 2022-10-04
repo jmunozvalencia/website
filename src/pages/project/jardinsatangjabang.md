@@ -36,7 +36,7 @@ El alcalde de la comunidad rural de Kafountine, Msr. Victor Djatta inauguró el 
 		<a class="text-black hover:text-c-green" href="/gallery">Imágenes</a>
 	</div>
 	<div class="flex items-center justify-center flex-col mb-8">
-    <a class="sm:w-20 sm:h-20 w-32 h-32" href="/gallery">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://www.youtube.com/channel/UC-J1epsdvSyG8o6yQR2xRJQ/videos">
 			<Icon pack="mdi" name="play-box-multiple"/>
 		</a>
 		<a class="text-black hover:text-c-green" href="https://www.youtube.com/channel/UC-J1epsdvSyG8o6yQR2xRJQ/videos">Videos</a>
