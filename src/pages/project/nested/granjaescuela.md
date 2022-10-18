@@ -1,4 +1,7 @@
 ---
+setup: |
+  import { Tweet, YouTube } from 'astro-embed';
+  import { Icon } from 'astro-icon';
 layout: ../../../layouts/project.astro
 title: BALADRE GRANJA ESCUELA
 client: Self
@@ -21,8 +24,19 @@ Sistema de reciclaje de materia orgánica producida por jardines privados locale
 Paisajismo en consonancia con el entorno con creación de micro-climas.
 Ruta especialmente diseñada para escuelas y grupos de aprendizaje.
 La Granja escuela dispone de instalaciones para alquilar a grupos, etc.
- 
-- **Fecha de inicio:** Septiembre de 2014.
-- **Ubicación:** Ondara, Alicante.
-- **Visitas, talleres:** Roc Enguix, profesor de la granja escuela.
-- **Superficie:** 2000 metros cuadrados.
+
+<br/>
+<div class="flex flex-col justify-around sm:flex-row" >
+	<div class="flex items-center justify-center flex-col mb-8">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://g.page/granjaescolabaladre?share">
+			<Icon pack="mdi" name="map-marker"/>
+		</a>
+		<a class="text-black hover:text-c-green" href="https://g.page/granjaescolabaladre?share">Ubicación</a>
+	</div>
+	<div class="flex items-center justify-center flex-col mb-8">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://www.facebook.com/media/set/?set=a.559906319471970">
+			<Icon pack="mdi" name="image-multiple"/>
+		</a>
+		<a class="text-black hover:text-c-green" href="https://www.facebook.com/media/set/?set=a.559906319471970">Imágenes</a>
+	</div>
+</div>

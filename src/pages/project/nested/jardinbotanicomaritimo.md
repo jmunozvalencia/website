@@ -7,7 +7,8 @@ title: BOTÁNICO MARÍTIMO "Mami Wata"
 client: Self
 publishDate: 2022-09-18 00:00:00
 img: /botanicomaritimo.jpg
-description: Botánico marítimo "Mami Wata"
+description: |
+  Botánico marítimo "Mami Wata"
 tags:
   - Permacultura
   - Medicina natural
@@ -35,10 +36,10 @@ Botánico marítimo lo denominamos Mami Wata, una divinidad del agua africana em
 		<a class="text-black hover:text-c-green" href="https://goo.gl/maps/t5ivt8kT1w51xSm48">Ubicación</a>
 	</div>
 	<div class="flex items-center justify-center flex-col mb-8">
-    <a class="sm:w-20 sm:h-20 w-32 h-32" href="/galleriajardinbotanicomaritimo">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://www.facebook.com/media/set/?set=a.559892152806720">
 			<Icon pack="mdi" name="image-multiple"/>
 		</a>
-		<a class="text-black hover:text-c-green" href="/galleriajardinbotanicomaritimo">Imágenes</a>
+		<a class="text-black hover:text-c-green" href="https://www.facebook.com/media/set/?set=a.559892152806720">Imágenes</a>
 	</div>
 	<div class="flex items-center justify-center flex-col mb-8">
     <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://odysee.com/@art.oasis:5/ArtOasis-Un-estilo-de-vida:3">
