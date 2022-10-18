@@ -13,6 +13,8 @@ tags:
   - Plantas medicinales
 ---
 
+@P292bc3f4ae236b3f7391184ef8577db7a246f5a0
+
 Proyecto transformativo de residuos orgánicos, en un Parque Jardín Huerto Botánico Local.
 Se trata de un antiguo vertedero donde se quemaba indiscriminadamente los residuos vegetales.
 
