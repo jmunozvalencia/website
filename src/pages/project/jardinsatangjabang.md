@@ -3,12 +3,12 @@ setup: |
   import { Tweet, YouTube } from 'astro-embed';
   import { Icon } from 'astro-icon';
 layout: ../../layouts/project.astro
-title: JARDÍN BOTÁNICO ESCUELA SENEGAL
+title: JARDÍN BOTÁNICO S. JABANG
 client: Self
 publishDate: 2022-09-19 00:00:00
 img: /satang.jpg
 description: |
-  Jardín botánico escuela Satang Jabang en Senegal
+  Jardín botánico escuela S. Jabang
 tags:
   - Permacultura
   - Medicina natural
@@ -30,10 +30,10 @@ El alcalde de la comunidad rural de Kafountine, Msr. Victor Djatta inauguró el 
 		<a class="text-black hover:text-c-green" href="https://goo.gl/maps/eeP56VibGWvW1JGt6">Ubicación</a>
 	</div>
 	<div class="flex items-center justify-center flex-col mb-8">
-    <a class="sm:w-20 sm:h-20 w-32 h-32" href="/jardinsatangjabang">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://www.facebook.com/media/set/?set=a.560003579462244">
 			<Icon pack="mdi" name="image-multiple"/>
 		</a>
-		<a class="text-black hover:text-c-green" href="/jardinsatangjabang">Imágenes</a>
+		<a class="text-black hover:text-c-green" href="https://www.facebook.com/media/set/?set=a.560003579462244">Imágenes</a>
 	</div>
 	<div class="flex items-center justify-center flex-col mb-8">
     <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://www.youtube.com/channel/UC-J1epsdvSyG8o6yQR2xRJQ/videos">
