@@ -1,4 +1,7 @@
 ---
+setup: |
+  import { Tweet, YouTube } from 'astro-embed';
+  import { Icon } from 'astro-icon';
 layout: ../../../layouts/project.astro
 title: Jardín botánico de Orba
 client: Self
@@ -20,7 +23,18 @@ Hemos creado un paisaje mediterráneo donde conviven especies medicinales, ornam
 
 El resultado inmediato es la transformación de un simple vertedero a un lugar visitable y de esparcimiento, así como lugar de talleres de plantas medicinales, permacultura y agricultura ecológica. Con las aportaciones económicas se reinvierte en la auto-financiación del proyecto.
 
-- **Fecha de inicio:** Septiembre de 2015.
-- **Ubicación:** Orba, Alicante.
-- **Contactos:** Beatriz Fesser y Binta Sissé. Ayuntamiento de Orba.
-- **Superficie:** 2000 metros cuadrados.
+<br/>
+<div class="flex flex-col justify-around sm:flex-row" >
+	<div class="flex items-center justify-center flex-col mb-8">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://goo.gl/maps/MjBzuFSGFn4FqjRp7">
+			<Icon pack="mdi" name="map-marker"/>
+		</a>
+		<a class="text-black hover:text-c-green" href="https://goo.gl/maps/MjBzuFSGFn4FqjRp7">Ubicación</a>
+	</div>
+	<div class="flex items-center justify-center flex-col mb-8">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://www.facebook.com/media/set/?set=a.569183781877557">
+			<Icon pack="mdi" name="image-multiple"/>
+		</a>
+		<a class="text-black hover:text-c-green" href="https://www.facebook.com/media/set/?set=a.569183781877557">Imágenes</a>
+	</div>
+</div>
