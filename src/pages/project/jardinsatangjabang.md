@@ -2,7 +2,7 @@
 setup: |
   import { Tweet, YouTube } from 'astro-embed';
   import { Icon } from 'astro-icon';
-layout: ../../../layouts/project.astro
+layout: ../../layouts/project.astro
 title: JARDÍN BOTÁNICO S. JABANG
 client: Self
 publishDate: 2022-09-19 00:00:00
