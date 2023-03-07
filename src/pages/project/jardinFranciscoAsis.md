@@ -6,7 +6,7 @@ layout: ../../layouts/project.astro
 title: El Jardín de Francisco de Asís
 client: Self
 publishDate: 2023-03-01 00:00:00
-img: /arboles.jpg
+img: /jardin_francisco_asis.jpg
 description: |
   Jardín botánico para la Misión Franciscana de Quinhamel - Guinea Bissau
 tags:
